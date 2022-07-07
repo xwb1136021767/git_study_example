@@ -1,3 +1,0 @@
-D:/program/c++primer_study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-D:/program/c++primer_study/cmake-build-debug/CMakeFiles/c__primer_study.dir
-D:/program/c++primer_study/cmake-build-debug/CMakeFiles/edit_cache.dir

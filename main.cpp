@@ -41,6 +41,6 @@ int main(){
 //    cout << "&tmp.b - &tmp" << (&(tmp.b) - (&tmp)) << endl;
     cout << "(size_t)&(((struct example_struct2*)0)->b) = " << (size_t)&(((struct example_struct2*)0)->b) << endl;
     cout << "test git modify" << endl;
-    cout << "test git modify" << endl;
+    cout << "test git modify" << endl;:wq
     return 0;
 }
